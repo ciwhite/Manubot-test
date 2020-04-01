@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/ciwhite/Manubot-test/tree/gh-pages) branch hosts the contents of this directory at <https://ciwhite.github.io/Manubot-test/>.
-The permalink for this webpage version is <https://ciwhite.github.io/Manubot-test/v/b0ab6a6a847a115c534f8a48a16f01c84faab31b/>.
+The permalink for this webpage version is <https://ciwhite.github.io/Manubot-test/v/78759fd24d1f73b07f1c4d5fe0c361059ffef79d/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://ciwhite.github.io/Manubot-test/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`b0ab6a6a847a115c534f8a48a16f01c84faab31b`](https://github.com/ciwhite/Manubot-test/commit/b0ab6a6a847a115c534f8a48a16f01c84faab31b).
+[`78759fd24d1f73b07f1c4d5fe0c361059ffef79d`](https://github.com/ciwhite/Manubot-test/commit/78759fd24d1f73b07f1c4d5fe0c361059ffef79d).
